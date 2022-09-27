@@ -9,8 +9,6 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -20,7 +18,7 @@ status-website:
   logoUrl: https://clear-status-spookykip.vercel.app/images/spookhost.svg
   name: Spookhost Service Status
   introTitle: "Spookhost Service Status"
-  introMessage: This status page provides updated information about **Spookhost**''s systems normal operation and incidents that may happen.
+  introMessage: This status page provides updated information about **Spookhost**'s systems normal operation and incidents that may happen.
   navbar:
   #  - title: Status
    #   href: /
