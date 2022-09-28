@@ -56,7 +56,7 @@ status-website:
   scripts:
     - src: https://spookykipper.github.io/AssetsWebsite/Spookhost/Upptime/groups.js
    # - src: https://example.com/script-2.js
-      async: true
+      async: false
   navbar:
   #  - title: Status
    #   href: /
