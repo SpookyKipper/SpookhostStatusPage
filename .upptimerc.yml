@@ -39,7 +39,7 @@ sites:
     #Start Third Party
   - name: Accounts Management API - Essential
     url: https://panel.myownfreehost.net/xml-api/
-  - name: SSL Api
+  - name: SSL API
     url: https://my.gogetssl.com/api/
 
   #- name: Online File Manager
