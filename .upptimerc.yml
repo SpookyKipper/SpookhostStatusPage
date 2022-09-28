@@ -43,6 +43,10 @@ status-website:
   themeUrl: https://spookykipper.github.io/AssetsWebsite/Spookhost/Upptime/theme.css
   favicon: https://clear-status-spookykip.vercel.app/images/spookhost.svg
   faviconSvg: https://clear-status-spookykip.vercel.app/images/spookhost.svg
+  scripts:
+    - src: https://spookykipper.github.io/AssetsWebsite/Spookhost/Upptime/groups.js
+   # - src: https://example.com/script-2.js
+      async: true
   navbar:
   #  - title: Status
    #   href: /
