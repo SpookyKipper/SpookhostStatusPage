@@ -40,7 +40,7 @@ status-website:
   name: Spookhost Service Status
   introTitle: "Spookhost Service Status"
   introMessage: This status page provides updated information about **Spookhost**'s systems normal operation and incidents that may happen.
-  themeUrl: https://spookykipper.github.io/AssetsWebsite/Upptime/theme.css
+  themeUrl: https://spookykipper.github.io/AssetsWebsite/Spookhost/Upptime/theme.css
   favicon: https://clear-status-spookykip.vercel.app/images/spookhost.svg
   faviconSvg: https://clear-status-spookykip.vercel.app/images/spookhost.svg
   navbar:
