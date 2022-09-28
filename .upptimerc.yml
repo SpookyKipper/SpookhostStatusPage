@@ -14,7 +14,7 @@ sites:
     check: "tcp-ping"
     port: 21
   - name: Test
-  #  url: https://cpanel.spookhost.eu.org
+    url: 
   #- name: Online File Manager
  #   url: https://app.spookhost.eu.org
   #- name: cPanel
