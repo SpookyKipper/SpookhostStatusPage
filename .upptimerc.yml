@@ -16,10 +16,13 @@ sites:
     port: 21
   - name: Nameserver 1
     url: ns1.spookhost.eu.org
-    check: "tcp-ping"
+    expectedStatusCodes:
+      - 0
   - name: Nameserver 2
     url: ns2.spookhost.eu.org
     check: "tcp-ping"
+    expectedStatusCodes:
+      - 0
     #Start Traige Services
   - name: phpMyAdmin
     url: 185.27.134.10
@@ -33,8 +36,8 @@ sites:
     url: https://spookhost.eu.org/
   - name: Forum
     url: https://forum.spookhost.eu.org/
- # - name: cPanel
-  #  url: https://cpanel.spookhost.eu.org
+  - name: broken site for testing
+    url: hsdgwefweqfweqfefwefwefefsdfqwefdasefds
   #- name: Online File Manager
    # url: https://files.spookhost.eu.org/new
     
