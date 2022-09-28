@@ -14,13 +14,13 @@ sites:
     port: 21
   - name: Nameserver 1
     url: ns1.spookhost.eu.org
- #   expectedStatusCodes:
- #     - 0
+    expectedStatusCodes:
+      - 0
   - name: Nameserver 2
     url: ns2.spookhost.eu.org
     check: "ping"
- #   expectedStatusCodes:
-   #   - 0
+    expectedStatusCodes:
+      - 0
     #Start Traige Services
   - name: Online File Manager
     url: https://files.spookhost.eu.org/new
