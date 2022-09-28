@@ -3,6 +3,7 @@ owner: SpookyKipper # Your GitHub organization or username, where this repositor
 repo: SpookhostStatusPage # The name of this repository
 
 sites:
+#Start Core Services
   - name: Client Area
     url: https://app.spookhost.eu.org
   - name: cPanel
@@ -13,16 +14,25 @@ sites:
     url: ftpupload.net
     check: "tcp-ping"
     port: 21
-  - name: Test
-    url: 
-  #- name: Online File Manager
- #   url: https://app.spookhost.eu.org
-  #- name: cPanel
-   # url: https://cpanel.spookhost.eu.org
-  #- name: Online File Manager
-   # url: https://files.spookhost.eu.org/new
-  #- name: Client Area
-  #  url: https://app.spookhost.eu.org
+  - name: Nameserver 1
+    url: ns1.spookhost.eu.org
+    check: "tcp-ping"
+  - name: Nameserver 2
+    url: ns2.spookhost.eu.org
+    check: "tcp-ping"
+    #Start Traige Services
+  - name: phpMyAdmin
+    url: 185.27.134.10
+    check: "tcp-ping"
+  - name: Softaculous
+    url: sv1.scriptinstall.rocks
+    check: "tcp-ping"
+    port: 2083
+#Start Others
+  - name: Homepage
+    url: https://spookhost.eu.org/
+  - name: Forum
+    url: https://forum.spookhost.eu.org/
  # - name: cPanel
   #  url: https://cpanel.spookhost.eu.org
   #- name: Online File Manager
