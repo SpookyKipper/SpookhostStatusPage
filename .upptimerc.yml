@@ -56,10 +56,7 @@ status-website:
   themeUrl: https://spookykipper.github.io/AssetsWebsite/Spookhost/Upptime/theme.css
   favicon: https://clear-status-spookykip.vercel.app/images/spookhost.svg
   faviconSvg: https://clear-status-spookykip.vercel.app/images/spookhost.svg
-  scripts:
-    - src: https://spookykipper.github.io/AssetsWebsite/Spookhost/Upptime/groups.js
-   # - src: https://example.com/script-2.js
-      async: false
+  js: "window.onload = function() { function grouping1(){if(null!=document.querySelector("#sapper > main > section.live-status.svelte-fqsq6s > article:nth-child(1)")){let e=document.createElement("h1"),t=document.createElement("p");e.appendChild(t),document.querySelector("#sapper > main > section.live-status.svelte-fqsq6s > article:nth-child(1)").parentNode.insertBefore(e,document.querySelector("#sapper > main > section.live-status.svelte-fqsq6s > article:nth-child(1)")),t.after("Core Services")}else setTimeout(grouping1,100)} }"
   navbar:
   #  - title: Status
    #   href: /
