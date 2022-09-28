@@ -20,7 +20,7 @@ sites:
       - 0
   - name: Nameserver 2
     url: ns2.spookhost.eu.org
-    check: "tcp-ping"
+    check: "ping"
     expectedStatusCodes:
       - 0
     #Start Traige Services
