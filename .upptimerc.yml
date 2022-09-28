@@ -36,8 +36,7 @@ sites:
     url: https://spookhost.eu.org/
   - name: Forum
     url: https://forum.spookhost.eu.org/
-  - name: broken site for testing
-    url: 198.251.86.152
+
   #- name: Online File Manager
    # url: https://files.spookhost.eu.org/new
     
