@@ -8,8 +8,6 @@ sites:
     url: https://app.spookhost.eu.org
   - name: cPanel
     url: https://cpanel.spookhost.eu.org
-  - name: Online File Manager
-    url: https://files.spookhost.eu.org/new
   - name: FTP Server
     url: ftpupload.net
     check: "tcp-ping"
@@ -24,6 +22,8 @@ sites:
     expectedStatusCodes:
       - 0
     #Start Traige Services
+  - name: Online File Manager
+    url: https://files.spookhost.eu.org/new
   - name: phpMyAdmin
     url: 185.27.134.10
     check: "tcp-ping"
