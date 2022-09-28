@@ -13,7 +13,7 @@ sites:
     url: ftpupload.net
     check: "tcp-ping"
     port: 21
- # - name: FTP Server
+  - name: Test
   #  url: https://cpanel.spookhost.eu.org
   #- name: Online File Manager
  #   url: https://app.spookhost.eu.org
