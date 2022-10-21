@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.spookhost.eu.org.ico",
     "slug": "client-area",
     "status": "up",
-    "uptime": "98.43%",
+    "uptime": "98.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.43%",
-    "uptimeYear": "98.43%",
+    "uptimeMonth": "98.46%",
+    "uptimeYear": "98.46%",
     "time": 798,
     "timeDay": 907,
-    "timeWeek": 791,
+    "timeWeek": 809,
     "timeMonth": 798,
     "timeYear": 798,
     "dailyMinutesDown": {
@@ -25,18 +25,20 @@
     "url": "https://cpanel.spookhost.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/cpanel.spookhost.eu.org.ico",
     "slug": "c-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 653,
-    "timeDay": 796,
-    "timeWeek": 612,
-    "timeMonth": 653,
-    "timeYear": 653,
-    "dailyMinutesDown": {}
+    "time": 648,
+    "timeDay": 608,
+    "timeWeek": 587,
+    "timeMonth": 648,
+    "timeYear": 648,
+    "dailyMinutesDown": {
+      "2022-10-21": 0
+    }
   },
   {
     "name": "FTP Server",
@@ -51,7 +53,7 @@
     "uptimeYear": "100.00%",
     "time": 225,
     "timeDay": 207,
-    "timeWeek": 232,
+    "timeWeek": 231,
     "timeMonth": 225,
     "timeYear": 225,
     "dailyMinutesDown": {}
@@ -69,7 +71,7 @@
     "uptimeYear": "100.00%",
     "time": 156,
     "timeDay": 119,
-    "timeWeek": 156,
+    "timeWeek": 154,
     "timeMonth": 156,
     "timeYear": 156,
     "dailyMinutesDown": {}
@@ -87,7 +89,7 @@
     "uptimeYear": "100.00%",
     "time": 95,
     "timeDay": 50,
-    "timeWeek": 95,
+    "timeWeek": 99,
     "timeMonth": 95,
     "timeYear": 95,
     "dailyMinutesDown": {}
@@ -97,18 +99,20 @@
     "url": "https://files.spookhost.eu.org/new",
     "icon": "https://icons.duckduckgo.com/ip3/files.spookhost.eu.org.ico",
     "slug": "online-file-manager",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 793,
     "timeDay": 919,
-    "timeWeek": 751,
+    "timeWeek": 768,
     "timeMonth": 793,
     "timeYear": 793,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-21": 0
+    }
   },
   {
     "name": "phpMyAdmin",
@@ -123,7 +127,7 @@
     "uptimeYear": "100.00%",
     "time": 114,
     "timeDay": 150,
-    "timeWeek": 117,
+    "timeWeek": 120,
     "timeMonth": 114,
     "timeYear": 114,
     "dailyMinutesDown": {}
@@ -141,7 +145,7 @@
     "uptimeYear": "100.00%",
     "time": 400,
     "timeDay": 615,
-    "timeWeek": 489,
+    "timeWeek": 499,
     "timeMonth": 400,
     "timeYear": 400,
     "dailyMinutesDown": {}
@@ -159,7 +163,7 @@
     "uptimeYear": "100.00%",
     "time": 606,
     "timeDay": 642,
-    "timeWeek": 596,
+    "timeWeek": 615,
     "timeMonth": 606,
     "timeYear": 606,
     "dailyMinutesDown": {}
@@ -177,7 +181,7 @@
     "uptimeYear": "100.00%",
     "time": 1348,
     "timeDay": 3289,
-    "timeWeek": 2034,
+    "timeWeek": 2224,
     "timeMonth": 1348,
     "timeYear": 1348,
     "dailyMinutesDown": {}
@@ -195,7 +199,7 @@
     "uptimeYear": "100.00%",
     "time": 852,
     "timeDay": 1225,
-    "timeWeek": 896,
+    "timeWeek": 923,
     "timeMonth": 852,
     "timeYear": 852,
     "dailyMinutesDown": {}
@@ -213,7 +217,7 @@
     "uptimeYear": "100.00%",
     "time": 567,
     "timeDay": 744,
-    "timeWeek": 573,
+    "timeWeek": 583,
     "timeMonth": 567,
     "timeYear": 567,
     "dailyMinutesDown": {}
