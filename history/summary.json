@@ -25,19 +25,19 @@
     "url": "https://cpanel.spookhost.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/cpanel.spookhost.eu.org.ico",
     "slug": "c-panel",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 648,
-    "timeDay": 608,
-    "timeWeek": 587,
-    "timeMonth": 648,
-    "timeYear": 648,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "97.46%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 645,
+    "timeDay": 582,
+    "timeWeek": 580,
+    "timeMonth": 645,
+    "timeYear": 645,
     "dailyMinutesDown": {
-      "2022-10-21": 0
+      "2022-10-21": 37
     }
   },
   {
@@ -99,19 +99,19 @@
     "url": "https://files.spookhost.eu.org/new",
     "icon": "https://icons.duckduckgo.com/ip3/files.spookhost.eu.org.ico",
     "slug": "online-file-manager",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 793,
-    "timeDay": 919,
-    "timeWeek": 768,
-    "timeMonth": 793,
-    "timeYear": 793,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "97.46%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 791,
+    "timeDay": 819,
+    "timeWeek": 761,
+    "timeMonth": 791,
+    "timeYear": 791,
     "dailyMinutesDown": {
-      "2022-10-21": 0
+      "2022-10-21": 37
     }
   },
   {
