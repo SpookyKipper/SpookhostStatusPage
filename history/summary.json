@@ -162,19 +162,19 @@
     "url": "https://spookhost.eu.org/",
     "icon": "https://icons.duckduckgo.com/ip3/spookhost.eu.org.ico",
     "slug": "homepage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 506,
-    "timeDay": 1229,
-    "timeWeek": 607,
-    "timeMonth": 323,
-    "timeYear": 506,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 505,
+    "timeDay": 1019,
+    "timeWeek": 585,
+    "timeMonth": 325,
+    "timeYear": 505,
     "dailyMinutesDown": {
-      "2022-12-06": 0
+      "2022-12-06": 12
     }
   },
   {
