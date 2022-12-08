@@ -29,12 +29,12 @@
     "status": "up",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.21%",
+    "uptimeWeek": "99.52%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.89%",
     "time": 1101,
     "timeDay": 266,
-    "timeWeek": 4421,
+    "timeWeek": 3843,
     "timeMonth": 1966,
     "timeYear": 1101,
     "dailyMinutesDown": {
@@ -163,9 +163,9 @@
     "url": "https://spookhost.eu.org/",
     "icon": "https://icons.duckduckgo.com/ip3/spookhost.eu.org.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -174,7 +174,9 @@
     "timeWeek": 534,
     "timeMonth": 305,
     "timeYear": 495,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-08": 0
+    }
   },
   {
     "name": "Forum",
