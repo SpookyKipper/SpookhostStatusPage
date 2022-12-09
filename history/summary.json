@@ -27,18 +27,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cpanel.spookhost.eu.org.ico",
     "slug": "c-panel",
     "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "98.66%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.86%",
+    "uptimeDay": "97.67%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.86%",
     "time": 1232,
     "timeDay": 8034,
     "timeWeek": 4127,
     "timeMonth": 2318,
     "timeYear": 1232,
     "dailyMinutesDown": {
-      "2022-12-09": 19,
+      "2022-12-09": 34,
       "2022-12-05": 24,
       "2022-12-01": 55,
       "2022-10-21": 37
@@ -108,10 +108,10 @@
     "url": "https://files.spookhost.eu.org/new",
     "icon": "https://icons.duckduckgo.com/ip3/files.spookhost.eu.org.ico",
     "slug": "online-file-manager",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 666,
@@ -120,6 +120,7 @@
     "timeMonth": 543,
     "timeYear": 666,
     "dailyMinutesDown": {
+      "2022-12-09": 1,
       "2022-10-21": 37
     }
   },
@@ -206,18 +207,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/panel.myownfreehost.net.ico",
     "slug": "accounts-management-api-essential",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 867,
     "timeDay": 939,
     "timeWeek": 811,
     "timeMonth": 884,
     "timeYear": 867,
     "dailyMinutesDown": {
-      "2022-12-09": 0
+      "2022-12-09": 14
     }
   },
   {
