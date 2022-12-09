@@ -27,18 +27,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cpanel.spookhost.eu.org.ico",
     "slug": "c-panel",
     "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "96.82%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.84%",
+    "uptime": "99.83%",
+    "uptimeDay": "95.56%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.83%",
     "time": 1232,
     "timeDay": 8034,
     "timeWeek": 4127,
     "timeMonth": 2318,
     "timeYear": 1232,
     "dailyMinutesDown": {
-      "2022-12-09": 46,
+      "2022-12-09": 64,
       "2022-12-05": 24,
       "2022-12-01": 55,
       "2022-10-21": 37
@@ -109,18 +109,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.spookhost.eu.org.ico",
     "slug": "online-file-manager",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.96%",
     "time": 666,
     "timeDay": 696,
     "timeWeek": 569,
     "timeMonth": 546,
     "timeYear": 666,
     "dailyMinutesDown": {
-      "2022-12-09": 12,
       "2022-10-21": 37
     }
   },
@@ -129,10 +128,10 @@
     "url": "185.27.134.10",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "php-my-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 117,
@@ -140,17 +139,19 @@
     "timeWeek": 116,
     "timeMonth": 118,
     "timeYear": 117,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-09": 2
+    }
   },
   {
     "name": "Softaculous",
     "url": "sv1.scriptinstall.rocks",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "softaculous",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 474,
@@ -158,7 +159,9 @@
     "timeWeek": 607,
     "timeMonth": 548,
     "timeYear": 474,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-09": 1
+    }
   },
   {
     "name": "Homepage",
@@ -207,18 +210,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/panel.myownfreehost.net.ico",
     "slug": "accounts-management-api-essential",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "98.15%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.96%",
+    "uptimeDay": "96.89%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.96%",
     "time": 867,
     "timeDay": 939,
     "timeWeek": 811,
     "timeMonth": 884,
     "timeYear": 867,
     "dailyMinutesDown": {
-      "2022-12-09": 27
+      "2022-12-09": 45
     }
   },
   {
