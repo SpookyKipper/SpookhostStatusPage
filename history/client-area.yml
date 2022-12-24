@@ -1,7 +1,7 @@
 url: https://app.spookhost.eu.org
-status: up
-code: 200
-responseTime: 742
-lastUpdated: 2022-12-24T06:22:21.346Z
+status: down
+code: 503
+responseTime: 302
+lastUpdated: 2022-12-24T13:23:22.978Z
 startTime: Wed Sep 28 2022 08:44:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
