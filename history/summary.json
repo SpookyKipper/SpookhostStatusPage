@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.spookhost.eu.org.ico",
     "slug": "client-area",
     "status": "up",
-    "uptime": "93.79%",
+    "uptime": "93.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.29%",
-    "uptimeYear": "93.79%",
+    "uptimeMonth": "96.42%",
+    "uptimeYear": "93.81%",
     "time": 759,
     "timeDay": 1185,
     "timeWeek": 965,
@@ -249,9 +249,9 @@
     "url": "https://my.gogetssl.com/api/",
     "icon": "https://icons.duckduckgo.com/ip3/my.gogetssl.com.ico",
     "slug": "ssl-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -260,6 +260,8 @@
     "timeWeek": 511,
     "timeMonth": 536,
     "timeYear": 554,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   }
 ]
