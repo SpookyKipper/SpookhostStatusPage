@@ -137,11 +137,11 @@
     "url": "https://files.spookhost.eu.org/new",
     "icon": "https://icons.duckduckgo.com/ip3/files.spookhost.eu.org.ico",
     "slug": "online-file-manager",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "94.72%",
-    "uptimeMonth": "98.79%",
+    "uptimeMonth": "98.78%",
     "uptimeYear": "99.72%",
     "time": 587,
     "timeDay": 62,
@@ -149,6 +149,7 @@
     "timeMonth": 491,
     "timeYear": 587,
     "dailyMinutesDown": {
+      "2023-02-22": 0,
       "2023-02-19": 532,
       "2023-01-08": 17,
       "2022-10-21": 37
